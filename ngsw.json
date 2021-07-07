@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625648785183,
+  "timestamp": 1625648994231,
   "index": "/gyertya-rework/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "/gyertya-rework/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/gyertya-rework/index.html": "78ce185bfa3faf3fb7235859efe9fdd76b54290f",
     "/gyertya-rework/main.b798a35088496cb2d944.js": "1d990a07f44944ec8807428f57d4cc5d4663faef",
-    "/gyertya-rework/manifest.webmanifest": "e7e504cfe6d87e1aaf4432fb191b2b2f75fc1f7a",
+    "/gyertya-rework/manifest.webmanifest": "ab0e112ab666796fadbb9dc660bf6c61ea6efe7a",
     "/gyertya-rework/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/gyertya-rework/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/gyertya-rework/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
